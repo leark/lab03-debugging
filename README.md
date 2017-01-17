@@ -4,7 +4,7 @@
 
 Finding and removing errors in programs ("debugging") is probably the most common, most important, and most difficult task in implementing computer programs. Luckliy, there are plenty of tried and true methods to help identify errors, and VS Code is able to offer further support. 
 
-* Fun fact: The word "debug" was coined by Dr. Grace Hopper when she was working on the Mark II computer back in 1947. A moth a moth was discovered inside the computer, interfering with a relay and keeping it from working. Removing the moth ("debugging", as Dr. Hopper called it) fixed the computer. 
+* Fun fact: The word "debug" was coined by Dr. Grace Hopper when she was working on the Mark II computer back in 1947. A moth was discovered inside the computer, interfering with a relay and keeping it from working. Removing the moth ("debugging", as Dr. Hopper called it) fixed the computer. 
 
 This lab will walk you through the debugging process and how to use the VS Code debugger, and how to use source maps to debug Typescript. Note that while you may be able to find and fix the bugs on your own, you should try and use the debugger so that you are familiar with the Eclipse tools (which can be really helpful later!). 
 
